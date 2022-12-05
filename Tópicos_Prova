@@ -5,9 +5,11 @@ Testes automatizados facilitam o desenvolvedor de precisar achar erros no sitema
 O teste unitário, como já diz é um teste de funcionalidade de unidades, o objetivo é facilitar a identificação de erros no sistema geral divididindo o código em partes e após todas essas partes forem testadas e funcionem o código será reintegrado
 
 3°) O que são testes instrumentados?
-
+Este tipo de teste serve para que se possa ter acesso e controlar informações como alterar velocidade, som, frames e arquivos internose da aplicação por meio de emuladores, o que não é possível no aparelho primitivo.
 
 4°) Escolha uma pirâmide de testes e descreva com suas palavras cada secção da pirâmide.
 A pirâmide 'end to end' é dividida em:
 - teste unitário, teste de integração e teste ponta a ponta.
--
+- o teste unitário que está na base da pirâmide é totalmente independente já que é seperado do resto do código, geralmente na aplicação de uma classe ou uma função.
+- o teste de integração no meio da pirâmide é justamente a execução da interação entre as unidades do sistema, como comunicação de banco de dados usando componenttes externos, por isso nessecitam de todo o ambiente.
+- o teste ponta a ponta no topo é o teste de todo o conjunto, serve para simular todo o comportamento do software em relação ao usuário, levam muito tempo para avaliar toda a saúde da aplicação por isso são feitos poucos.
