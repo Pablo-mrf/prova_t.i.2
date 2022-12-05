@@ -1,0 +1,10 @@
+1°) Quais os tipos de aprendizados e suas aplicações:
+2°) Para cada tipo de aprendizagem de máquina apresente um exemplo que se encaixa com a sua definição:
+
+Há três tipos de aprendizagem de máquina:
+
+Supervisionado - consiste em um modelo onde há um banco de dados fornecido por uma pessoa indicando como o sistema deve agir de acordo com quem interage, por exemplo: sites de lojas ou restaurantes que lidam com pagamentos e entregas de produtos necessitam de intervenção humana para dar o suporte ao cliente, e também é comum alguns softwares desse padrão que são preparados para responder dúvidas do usuário.
+
+Não supervisionado - este modelo é bastante presente na internet, é basicamente o software agindo de acordo com suas próprias regras, o exemplo mais comum são as mídias sociais, que armazenam informações dos usuários para fazer indicações e conexões.
+
+De reforço - o processo de "reforço" indica que algo está trabalhando com possibilidades ou situações instáveis, no caso, softwares que buscam soluções para determinado problema como robôs domésticos, e outros que envolvem bolsa de valores e mercado financeiro, esses traçam relatórios com base no atual cenário, que está sempre em ajuste.
