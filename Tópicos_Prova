@@ -1,8 +1,8 @@
 1°) Por que devemos fazer testes automatizados nas aplicações que desenvolvemos?
-Testes automatizados facilitam o desenvolvedor de precisar achar erros no sitema, ou no caso de empresas que precisam contratar funcionários para testar seus produtos, o teste automático se mostra uma solução eficiente e de baixo custo enquanto os funcionários podem ser redirecionados a outros recursos da empresa
+Testes automatizados facilitam o desenvolvedor de precisar achar erros no sitema, ou no caso de empresas que precisam contratar funcionários para testar seus produtos, o teste automático se mostra uma solução eficiente e de baixo custo enquanto os funcionários podem ser redirecionados a outros recursos da empresa.
 
 2°) O que são testes unitários?
-O teste unitário, como já diz é um teste de funcionalidade de unidades, o objetivo é facilitar a identificação de erros no sistema geral divididindo o código em partes e após todas essas partes forem testadas e funcionem o código será reintegrado
+O teste unitário, como já diz é um teste de funcionalidade de unidades, o objetivo é facilitar a identificação de erros no sistema geral divididindo o código em partes e após todas essas partes forem testadas e funcionem o código será reintegrado.
 
 3°) O que são testes instrumentados?
 Este tipo de teste serve para que se possa ter acesso e controlar informações como alterar velocidade, som, frames e arquivos internose da aplicação por meio de emuladores, o que não é possível no aparelho primitivo.
